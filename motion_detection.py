@@ -1,7 +1,7 @@
 import cv2
 
 #サンプル映像の読み込み
-path = "こね.mov"
+path = "こねちゃん.mov"
 cap = cv2.VideoCapture(path)
 
 print("動体検知を開始します")
