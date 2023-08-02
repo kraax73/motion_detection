@@ -4,7 +4,7 @@ import cv2
 path = "こね.mov"
 cap = cv2.VideoCapture(path)
 
-print("動体検知を開始します")
+print("動体検知を開始")
 
 avg = None
 
